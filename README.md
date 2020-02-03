@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A basic todo list app, built on Rails
 
-Things you may want to cover:
+What it does:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Create multiple checklists
+* Edit individual checklist title and description
+* Delete checklists
+* Create checklist items
+* Mark checklist items as completed
+* Delete checklist items
